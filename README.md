@@ -79,15 +79,7 @@ Curious by nature, I’m always learning new technologies to stay ahead in the e
 
 ---
 
-### 🏗️ Projects Showcase
-| Project | Tech Stack | Description |
-|----------|-------------|-------------|
-| [**Portfolio Website**](#) | Next.js, TailwindCSS | Personal portfolio showcasing skills and projects |
-| [**MERN Blog App**](#) | MongoDB, Express, React, Node, Mongoose | Full-featured blogging platform with authentication |
-| [**Task Manager API**](#) | Node.js, Express.js, MongoDB | RESTful API with JWT authentication and task management |
-| [**DevOps Demo App**](#) | Docker, AWS, Jenkins | CI/CD pipeline and deployment demonstration |
 
----
 
 ### 🚀 My Goals
 - Become a **Senior Full Stack Developer** within the next 5 years  
