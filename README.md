@@ -1,7 +1,6 @@
 ![Header](https://raw.githubusercontent.com/Rayhan108/Rayhan108/main/Rayhan%20Shorker.png)
 
 
-
 <h1 align="center">Hi 👋, I'm MD Rayhan Shorker</h1>
 <h3 align="center">💻 Full Stack Developer | 🚀 Passionate about Web Technologies | 🎓 B.Sc. in CSE, City University</h3>
 
@@ -13,7 +12,7 @@
 
 ![Coding](https://raw.githubusercontent.com/Rayhan108/Rayhan108/main/coding.gif)
 
-
+![New Image](https://raw.githubusercontent.com/Rayhan108/Rayhan108/main/12143c65-e4ce-45cc-ad13-99f06d9708ea.png)
 
 ### 👨‍💻 About Me
 I'm a dedicated **Full Stack Web Developer** with 1+ year of hands-on experience building responsive, scalable, and user-focused web applications.  
