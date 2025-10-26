@@ -100,3 +100,4 @@ Curious by nature, I’m always learning new technologies to stay ahead in the e
 ### Lottie Animation (Embedded from LottieFiles)
 
 <iframe src="https://lottiefiles.com/embedded/lottie-animation-link" width="400" height="400" frameborder="0" allowfullscreen></iframe>
+
