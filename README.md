@@ -9,7 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=rayhan108&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan108" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="./coding.lottie" />
+<img align="right" alt="Coding" width="400" src="./coding.gif" />
+
 
 ### 👨‍💻 About Me
 I'm a dedicated **Full Stack Web Developer** with 1+ year of hands-on experience building responsive, scalable, and user-focused web applications.  
