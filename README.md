@@ -51,7 +51,7 @@ I am a dedicated **Full Stack Developer** with **1+ year** of professional exper
 
 ### 📈 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan108&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayhan108&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan108&theme=tokyonight" alt="GitHub Streak" />
 </p>
