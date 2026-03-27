@@ -17,76 +17,73 @@
 ---
 
 ### 👨‍💻 About Me
-I am a dedicated **Full Stack Developer** with **1+ year** of professional experience. Having spent my first 6 months as a Junior Frontend Developer, I successfully transitioned into a **Backend-focused Full Stack role** over the past 7 months, architecting scalable systems and secure APIs.
-
-Currently, I am augmenting my backend expertise by **integrating Large Language Models (LLMs)** to build intelligent, data-driven features.
+I am a dedicated **Full Stack Developer** with **1+ year** of professional experience. Transitioned from a Junior Frontend Developer to a **Backend-focused Full Stack role**, specializing in architecting scalable systems, secure APIs, and **AI-driven features**.
 
 🎓 **Education:** Pursuing B.Sc. in CSE at City University (Expected Graduation: **July 2026**).
 
-- ⚙️ **Backend Transition:** Focused on **TypeScript**, modular architecture, and complex database management.
-- 🧠 **AI Adoption:** Leveraging **OpenAI (GPT-4o)** and **Groq (Llama-3.3)** for intelligent automation.
-- ☁️ **Infrastructure:** Managing production environments on **AWS (EC2/S3)** with automated **CI/CD**.
-- 📊 **Metrics:** Implementing **F1-Score and Confusion Matrix** to evaluate AI performance.
+- ⚙️ **Focus:** TypeScript, Modular Backend Architecture, and Complex Database Management.
+- 🧠 **AI Integration:** Leveraging **LLMs (GPT-4o, Llama-3.3)** to automate workflows and enhance logic.
+- ☁️ **DevOps:** Managing production environments on **AWS (EC2/S3)** with automated **CI/CD**.
+- 📊 **Research:** Implementing metrics like **F1-Score and Confusion Matrix** for system evaluation.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Backend Engineering</strong></td>
-    <td align="center" width="25%"><strong>Frontend & UI</strong></td>
-    <td align="center" width="25%"><strong>AI Adoption</strong></td>
-    <td align="center" width="25%"><strong>Cloud & Tools</strong></td>
-  </tr>
-  <tr>
-    <td>
-      • <b>Node.js / Express</b><br/>
-      • <b>TypeScript</b><br/>
-      • <b>MongoDB / Mongoose</b><br/>
-      • <b>JWT Auth / Bcrypt</b><br/>
-      • <b>Zod Validation</b><br/>
-      • <b>RBAC / Node-cron</b>
-    </td>
-    <td>
-      • <b>React / Next.js</b><br/>
-      • <b>Redux / Context API</b><br/>
-      • <b>Tailwind CSS</b><br/>
-      • <b>Ant Design / Shadcn</b><br/>
-      • <b>Framer Motion</b><br/>
-      • <b>Figma to Code</b>
-    </td>
-    <td>
-      • <b>OpenAI API (GPT-4o)</b><br/>
-      • <b>Groq SDK (Llama-3.3)</b><br/>
-      • <b>Prompt Engineering</b><br/>
-      • <b>Structured JSON</b><br/>
-      • <b>Research Metrics</b><br/>
-      • <b>AI Code Auditing</b>
-    </td>
-    <td>
-      • <b>AWS (EC2, S3)</b><br/>
-      • <b>GitHub Actions (CI/CD)</b><br/>
-      • <b>Socket.io / Stripe</b><br/>
-      • <b>Cloudinary / Firebase</b><br/>
-      • <b>Postman / Nginx</b><br/>
-      • <b>Docker (Awareness)</b>
-    </td>
-  </tr>
-</table>
+#### 🛠 Backend & Core Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bcrypt-4A4A4A?style=for-the-badge&logo=security&logoColor=white" />
+</p>
+
+#### 🧠 AI Adoption & Research
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_SDK-F55036?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0052FF?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON_Output-FFD600?style=for-the-badge&logo=json&logoColor=black" />
+  <img src="https://img.shields.io/badge/F1_Score-238636?style=for-the-badge&logo=google-analytics&logoColor=white" />
+</p>
+
+#### 🎨 Frontend & UI Development
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+#### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-- 🎓 **Educology:** A multi-role LMS with an **AI-driven Student Analytics Engine**. Calculates academic health status for 5 user roles using complex backend logic.
-- 🛡️ **CodeLumina:** AI-Powered Security Auditor built on **Groq SDK** to detect vulnerabilities. Includes a dashboard for Accuracy, Precision, and F1-Score metrics.
+- 🎓 **Educology:** A multi-role LMS featuring an **AI-driven Student Analytics Engine**. It uses backend logic to calculate academic health for 5 distinct roles.
+- 🛡️ **CodeLumina:** An AI-driven Security Auditor built on **Groq SDK** to detect Node.js vulnerabilities. Includes a dashboard for Accuracy and F1-Score metrics.
 - 📦 **Dental-Logistics:** Real-time delivery platform with **Geospatial querying (2dsphere)** and live movement tracking via **Socket.io**.
-- 🛒 **El-Afrik Lounge:** Logistics-enabled E-commerce integrated with **Uber Direct API** and orchestrated on **AWS EC2**.
+- 🛒 **El-Afrik Lounge:** E-commerce ecosystem with **Uber Direct API** integration and **AWS EC2** orchestration.
 
 ---
 
-### 📈 Current Activity & Stats
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan108&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
