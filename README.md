@@ -3,11 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Rayhan Shorker</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend-Focused Engineer | AI Adoption Specialist</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayhan108&show_icons=true&theme=tokyonight" alt="Rayhan's GitHub stats" />
-</p>
+<h3 align="center">🚀 Full Stack Developer | Backend-Focused Engineer | AI Integration Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rayhan108&label=Profile%20views&color=0e75b6&style=flat-square" alt="rayhan108" />
@@ -50,9 +46,7 @@ I am a dedicated **Full Stack Developer** with **1+ year** of professional exper
 ---
 
 ### 📈 Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayhan108&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan108&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
