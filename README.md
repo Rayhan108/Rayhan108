@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Rayhan108/Rayhan108/main/banner.png" width="100%" alt="Rayhan's Banner" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayhan108&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rayhan's GitHub stats" />
 </p>
 
@@ -19,10 +23,10 @@ Currently, I am augmenting my backend expertise by **integrating Large Language 
 
 🎓 **Education:** Pursuing B.Sc. in CSE at City University (Expected Graduation: **July 2026**).
 
-- ⚙️ **Backend Transition:** Focused on **TypeScript**, modular architecture, and complex database management (MongoDB/Mongoose).
-- 🧠 **AI Adoption:** Leveraging **OpenAI (GPT-4o)** and **Groq (Llama-3.3)** to automate workflows and enhance application logic.
-- ☁️ **Infrastructure:** Hands-on experience managing **AWS (EC2/S3)** and implementing **CI/CD** pipelines via GitHub Actions.
-- 📊 **Research-Driven:** Implementing statistical metrics like **F1-Score and Confusion Matrix** to evaluate system performance.
+- ⚙️ **Backend Transition:** Focused on **TypeScript**, modular architecture, and complex database management.
+- 🧠 **AI Adoption:** Leveraging **OpenAI (GPT-4o)** and **Groq (Llama-3.3)** for intelligent automation.
+- ☁️ **Infrastructure:** Managing production environments on **AWS (EC2/S3)** with automated **CI/CD**.
+- 📊 **Metrics:** Implementing **F1-Score and Confusion Matrix** to evaluate AI performance.
 
 ---
 
@@ -30,35 +34,43 @@ Currently, I am augmenting my backend expertise by **integrating Large Language 
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>Backend & Core</strong></td>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend Engineering</strong></td>
+    <td align="center" width="25%"><strong>Frontend & UI</strong></td>
     <td align="center" width="25%"><strong>AI Adoption</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
+    <td align="center" width="25%"><strong>Cloud & Tools</strong></td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      • <b>Node.js / Express</b><br/>
+      • <b>TypeScript</b><br/>
+      • <b>MongoDB / Mongoose</b><br/>
+      • <b>JWT Auth / Bcrypt</b><br/>
+      • <b>Zod Validation</b><br/>
+      • <b>RBAC / Node-cron</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      • <b>React / Next.js</b><br/>
+      • <b>Redux / Context API</b><br/>
+      • <b>Tailwind CSS</b><br/>
+      • <b>Ant Design / Shadcn</b><br/>
+      • <b>Framer Motion</b><br/>
+      • <b>Figma to Code</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Groq_SDK-F55036?style=flat&logo=lightning&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Prompt_Eng-0052FF?style=flat&logo=microsoftexcel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JSON_Output-FFD600?style=flat&logo=json&logoColor=black" />
+      • <b>OpenAI API (GPT-4o)</b><br/>
+      • <b>Groq SDK (Llama-3.3)</b><br/>
+      • <b>Prompt Engineering</b><br/>
+      • <b>Structured JSON</b><br/>
+      • <b>Research Metrics</b><br/>
+      • <b>AI Code Auditing</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" />
+      • <b>AWS (EC2, S3)</b><br/>
+      • <b>GitHub Actions (CI/CD)</b><br/>
+      • <b>Socket.io / Stripe</b><br/>
+      • <b>Cloudinary / Firebase</b><br/>
+      • <b>Postman / Nginx</b><br/>
+      • <b>Docker (Awareness)</b>
     </td>
   </tr>
 </table>
@@ -67,14 +79,14 @@ Currently, I am augmenting my backend expertise by **integrating Large Language 
 
 ### 🌟 Featured Projects
 
-- 🛡️ **CodeLumina:** An AI-driven Security Auditor built on **Groq SDK** to detect Node.js vulnerabilities. Featured with a research-grade dashboard for accuracy metrics.
-- 📦 **Dental-Logistics:** Real-time Rider Tracking & Delivery platform using **Socket.io** and **2dsphere Geospatial querying**.
-- 🛒 **El-Afrik Lounge:** E-commerce ecosystem with **Uber Direct API** integration and **AWS EC2** orchestration.
-- 🎓 **Educology:** A multi-role LMS featuring an **AI-augmented Student Analytics Engine**. It uses backend logic to calculate academic health for 5 distinct user roles.
+- 🎓 **Educology:** A multi-role LMS with an **AI-driven Student Analytics Engine**. Calculates academic health status for 5 user roles using complex backend logic.
+- 🛡️ **CodeLumina:** AI-Powered Security Auditor built on **Groq SDK** to detect vulnerabilities. Includes a dashboard for Accuracy, Precision, and F1-Score metrics.
+- 📦 **Dental-Logistics:** Real-time delivery platform with **Geospatial querying (2dsphere)** and live movement tracking via **Socket.io**.
+- 🛒 **El-Afrik Lounge:** Logistics-enabled E-commerce integrated with **Uber Direct API** and orchestrated on **AWS EC2**.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Current Activity & Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan108&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
@@ -96,4 +108,4 @@ Currently, I am augmenting my backend expertise by **integrating Large Language 
   </a>
 </p>
 
-<h3 align="center">✨ "Building faster APIs and cleaner UIs, one commit at a time 🚀" ✨</h3>
+<h3 align="center">✨ "I debug better with lo-fi music 🎧" ✨</h3>
