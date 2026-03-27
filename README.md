@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Full Stack Developer | Backend-Focused Engineer | AI Adoption Specialist</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayhan108&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rayhan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayhan108&show_icons=true&theme=tokyonight" alt="Rayhan's GitHub stats" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I am a dedicated **Full Stack Developer** with **1+ year** of professional exper
 | **Backend Engineering** | **Frontend & UI** | **AI Adoption** | **Cloud & Deployment** | **Tools & Integrations** |
 | :--- | :--- | :--- | :--- | :--- |
 | 🟢 **Node.js / Express** | 🔵 **React / Next.js** | 🤖 **OpenAI API (GPT-4o)** | ☁️ **AWS (EC2, S3)** | 💳 **Stripe API** |
-| 🔵 **TypeScript** | 🟣 **Redux / Context** | ⚡ **Groq SDK (Llama)** | 🚀 **Vercel / Render** | 🔌 **Socket.io** |
+| 🔵 **TypeScript** | 🟣 **Redux** | ⚡ **Groq SDK (Llama)** | 🚀 **Vercel / Render** | 🔌 **Socket.io** |
 | 🍃 **MongoDB / Mongoose**| 🎨 **Tailwind CSS** | 📝 **Prompt Engineering**| ⚙️ **GitHub Actions** | 📂 **Cloudinary** |
 | 🔑 **JWT Auth / Bcrypt** | 💠 **Ant Design / Shadcn**| 🔢 **JSON Output** | 🌐 **Nginx** | 🔥 **Firebase (FCM)** |
 | 🛡️ **Zod Validation** | 🎬 **Framer Motion** | 📈 **Research Metrics** | 🛠️ **Postman** | 🕒 **Node-cron / RBAC** |
@@ -42,17 +42,18 @@ I am a dedicated **Full Stack Developer** with **1+ year** of professional exper
 
 ### 🌟 Featured Projects
 
-- 🎓 **Educology:** A multi-role LMS featuring an **AI-driven Student Analytics Engine**. Calculates academic health status for 5 user roles using complex backend logic.
 - 🛡️ **CodeLumina:** AI-Powered Security Auditor built on **Groq SDK** to detect Node.js vulnerabilities. Includes a dashboard for Accuracy and F1-Score metrics.
 - 📦 **Dental-Logistics:** Real-time delivery platform with **Geospatial querying (2dsphere)** and live movement tracking via **Socket.io**.
 - 🛒 **El-Afrik Lounge:** Logistics-enabled E-commerce integrated with **Uber Direct API** and orchestrated on **AWS EC2**.
+- 🎓 **Educology:** A multi-role LMS featuring an **AI-driven Student Analytics Engine**. Calculates academic health status for 5 user roles using complex backend logic.
 
 ---
 
 ### 📈 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan108&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan108&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan108&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan108&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
