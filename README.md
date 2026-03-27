@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rayhan108/Rayhan108/main/banner.png" width="100%" alt="Rayhan's Banner" />
+  <img src="https://raw.githubusercontent.com/Rayhan108/Rayhan108/main/Rayhan%20shorker.png" width="100%" alt="Rayhan's Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Rayhan Shorker</h1>
@@ -17,27 +17,26 @@
 ---
 
 ### 👨‍💻 About Me
-I am a dedicated **Full Stack Developer** with **1+ year** of professional experience. I spent my first 6 months as a Junior Frontend Developer and successfully transitioned into a **Backend-focused Full Stack role** over the past 7 months, specializing in architecting scalable systems and **AI-driven features**.
+I am a dedicated **Full Stack Developer** with **1+ year** of professional experience. Transitioned from a Junior Frontend Developer to a **Backend-focused Full Stack role**, specializing in architecting scalable systems, secure APIs, and **AI-driven features**.
 
 🎓 **Education:** Pursuing B.Sc. in CSE at City University (Expected Graduation: **July 2026**).
 
-- ⚙️ **Backend Engineering:** Expert in **TypeScript**, modular architecture, and complex database management.
-- 🧠 **AI Adoption:** Leveraging **LLMs (GPT-4o, Llama-3.3)** to build intelligent automation and research tools.
-- ☁️ **Infrastructure:** Hands-on experience with **AWS (EC2/S3)** and automated **CI/CD** workflows.
-- 📊 **Research-Driven:** Implementing metrics like **F1-Score and Confusion Matrix** for system evaluation.
+- ⚙️ **Focus:** TypeScript, Modular Backend Architecture, and Complex Database Management.
+- 🧠 **AI Integration:** Leveraging **LLMs (GPT-4o, Llama-3.3)** to build intelligent automation and research tools.
+- ☁️ **Deployment:** Hands-on experience with **AWS (EC2/S3)**, **Vercel**, **Render**, and automated **CI/CD**.
+- 📊 **Research:** Implementing metrics like **F1-Score and Confusion Matrix** for system evaluation.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
-| **Backend Engineering** | **Frontend & UI** | **AI Adoption** | **Cloud & DevOps** |
-| :--- | :--- | :--- | :--- |
-| 🟢 **Node.js / Express** | 🔵 **React / Next.js** | 🤖 **OpenAI API (GPT-4o)** | ☁️ **AWS (EC2, S3)** |
-| 🔵 **TypeScript** | 🟣 **Redux / Context API** | ⚡ **Groq SDK (Llama-3.3)** | 🚀 **GitHub Actions (CI/CD)** |
-| 🍃 **MongoDB / Mongoose** | 🎨 **Tailwind CSS** | 📝 **Prompt Engineering** | 🔌 **Socket.io / Stripe** |
-| 🔑 **JWT Auth / Bcrypt** | 💠 **Ant Design / Shadcn** | 🔢 **JSON Output** | 📂 **Cloudinary / Firebase** |
-| 🛡️ **Zod Validation** | 🎬 **Framer Motion** | 📈 **Research Metrics** | 🌐 **Nginx / Postman** |
-| 🕒 **RBAC / Node-cron** | 📐 **Figma to Code** | 🔍 **AI Code Auditing** | 🐳 **Docker (Awareness)** |
+| **Backend Engineering** | **Frontend & UI** | **AI Adoption** | **Cloud & Deployment** | **Tools & Integrations** |
+| :--- | :--- | :--- | :--- | :--- |
+| 🟢 **Node.js / Express** | 🔵 **React / Next.js** | 🤖 **OpenAI API (GPT-4o)** | ☁️ **AWS (EC2, S3)** | 💳 **Stripe API** |
+| 🔵 **TypeScript** | 🟣 **Redux / Context** | ⚡ **Groq SDK (Llama)** | 🚀 **Vercel / Render** | 🔌 **Socket.io** |
+| 🍃 **MongoDB / Mongoose**| 🎨 **Tailwind CSS** | 📝 **Prompt Engineering**| ⚙️ **GitHub Actions** | 📂 **Cloudinary** |
+| 🔑 **JWT Auth / Bcrypt** | 💠 **Ant Design / Shadcn**| 🔢 **JSON Output** | 🌐 **Nginx** | 🔥 **Firebase (FCM)** |
+| 🛡️ **Zod Validation** | 🎬 **Framer Motion** | 📈 **Research Metrics** | 🛠️ **Postman** | 🕒 **Node-cron / RBAC** |
 
 ---
 
@@ -50,7 +49,7 @@ I am a dedicated **Full Stack Developer** with **1+ year** of professional exper
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Activity & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan108&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan108&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
